@@ -1,0 +1,4921 @@
+Disease,Symptom_1,Symptom_2
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, acidity, ulcers_on_tongue
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis, vomiting, yellowish_skin
+Chronic cholestasis,itching, yellowish_skin
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction, skin_rash, stomach_pain
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, indigestion, loss_of_appetite
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , weight_loss, restlessness
+Diabetes , fatigue, restlessness
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Migraine, indigestion, headache
+Migraine, acidity, headache
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice, vomiting, fatigue
+Jaundice,itching, fatigue
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, vomiting, high_fever
+Malaria, chills, high_fever
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Chicken pox, skin_rash, fatigue
+Chicken pox,itching, fatigue
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, chills, joint_pain
+Dengue, skin_rash, joint_pain
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, fatigue
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, vomiting, yellowish_skin
+hepatitis A, joint_pain, yellowish_skin
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B, fatigue, lethargy
+Hepatitis B,itching, lethargy
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, yellowish_skin, nausea
+Hepatitis C, fatigue, nausea
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, vomiting, fatigue
+Hepatitis D, joint_pain, fatigue
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, vomiting, fatigue
+Hepatitis E, joint_pain, fatigue
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, yellowish_skin, abdominal_pain
+Alcoholic hepatitis, vomiting, abdominal_pain
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, vomiting, fatigue
+Tuberculosis, chills, fatigue
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, chills, fatigue
+Common Cold, continuous_sneezing, fatigue
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, fatigue, cough
+Pneumonia, chills, cough
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, cramps, bruising
+Varicose veins, fatigue, bruising
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, fatigue, cold_hands_and_feets
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, mood_swings, weight_loss
+Hyperthyroidism, fatigue, weight_loss
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, fatigue, anxiety
+Hypoglycemia, vomiting, anxiety
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, neck_pain, knee_pain
+Osteoarthristis, joint_pain, knee_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, stiff_neck, swelling_joints
+Arthritis, muscle_weakness, swelling_joints
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, headache, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, pus_filled_pimples, blackheads
+Acne, skin_rash, blackheads
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, blackheads
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, joint_pain, skin_peeling
+Psoriasis, skin_rash, skin_peeling
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, high_fever, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, blister
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, acidity, ulcers_on_tongue
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis, vomiting, yellowish_skin
+Chronic cholestasis,itching, yellowish_skin
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction, skin_rash, stomach_pain
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, indigestion, loss_of_appetite
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , weight_loss, restlessness
+Diabetes , fatigue, restlessness
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Migraine, indigestion, headache
+Migraine, acidity, headache
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice, vomiting, fatigue
+Jaundice,itching, fatigue
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, vomiting, high_fever
+Malaria, chills, high_fever
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Chicken pox, skin_rash, fatigue
+Chicken pox,itching, fatigue
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, chills, joint_pain
+Dengue, skin_rash, joint_pain
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, fatigue
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, vomiting, yellowish_skin
+hepatitis A, joint_pain, yellowish_skin
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B, fatigue, lethargy
+Hepatitis B,itching, lethargy
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, yellowish_skin, nausea
+Hepatitis C, fatigue, nausea
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, vomiting, fatigue
+Hepatitis D, joint_pain, fatigue
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, vomiting, fatigue
+Hepatitis E, joint_pain, fatigue
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, yellowish_skin, abdominal_pain
+Alcoholic hepatitis, vomiting, abdominal_pain
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, vomiting, fatigue
+Tuberculosis, chills, fatigue
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, chills, fatigue
+Common Cold, continuous_sneezing, fatigue
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, fatigue, cough
+Pneumonia, chills, cough
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, cramps, bruising
+Varicose veins, fatigue, bruising
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, fatigue, cold_hands_and_feets
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, mood_swings, weight_loss
+Hyperthyroidism, fatigue, weight_loss
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, fatigue, anxiety
+Hypoglycemia, vomiting, anxiety
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, neck_pain, knee_pain
+Osteoarthristis, joint_pain, knee_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, stiff_neck, swelling_joints
+Arthritis, muscle_weakness, swelling_joints
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, headache, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, pus_filled_pimples, blackheads
+Acne, skin_rash, blackheads
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, blackheads
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, joint_pain, skin_peeling
+Psoriasis, skin_rash, skin_peeling
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, high_fever, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, blister
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, acidity, ulcers_on_tongue
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis, vomiting, yellowish_skin
+Chronic cholestasis,itching, yellowish_skin
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction, skin_rash, stomach_pain
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, indigestion, loss_of_appetite
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , weight_loss, restlessness
+Diabetes , fatigue, restlessness
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Migraine, indigestion, headache
+Migraine, acidity, headache
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice, vomiting, fatigue
+Jaundice,itching, fatigue
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, vomiting, high_fever
+Malaria, chills, high_fever
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Chicken pox, skin_rash, fatigue
+Chicken pox,itching, fatigue
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, chills, joint_pain
+Dengue, skin_rash, joint_pain
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, fatigue
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, vomiting, yellowish_skin
+hepatitis A, joint_pain, yellowish_skin
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B, fatigue, lethargy
+Hepatitis B,itching, lethargy
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, yellowish_skin, nausea
+Hepatitis C, fatigue, nausea
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, vomiting, fatigue
+Hepatitis D, joint_pain, fatigue
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, vomiting, fatigue
+Hepatitis E, joint_pain, fatigue
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, yellowish_skin, abdominal_pain
+Alcoholic hepatitis, vomiting, abdominal_pain
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, vomiting, fatigue
+Tuberculosis, chills, fatigue
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, chills, fatigue
+Common Cold, continuous_sneezing, fatigue
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, fatigue, cough
+Pneumonia, chills, cough
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, cramps, bruising
+Varicose veins, fatigue, bruising
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, fatigue, cold_hands_and_feets
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, mood_swings, weight_loss
+Hyperthyroidism, fatigue, weight_loss
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, fatigue, anxiety
+Hypoglycemia, vomiting, anxiety
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, neck_pain, knee_pain
+Osteoarthristis, joint_pain, knee_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, stiff_neck, swelling_joints
+Arthritis, muscle_weakness, swelling_joints
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, headache, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, pus_filled_pimples, blackheads
+Acne, skin_rash, blackheads
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, blackheads
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, joint_pain, skin_peeling
+Psoriasis, skin_rash, skin_peeling
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, high_fever, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, blister
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, acidity, ulcers_on_tongue
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis, vomiting, yellowish_skin
+Chronic cholestasis,itching, yellowish_skin
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction, skin_rash, stomach_pain
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, indigestion, loss_of_appetite
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , weight_loss, restlessness
+Diabetes , fatigue, restlessness
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Migraine, indigestion, headache
+Migraine, acidity, headache
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice, vomiting, fatigue
+Jaundice,itching, fatigue
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, vomiting, high_fever
+Malaria, chills, high_fever
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Chicken pox, skin_rash, fatigue
+Chicken pox,itching, fatigue
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, chills, joint_pain
+Dengue, skin_rash, joint_pain
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, fatigue
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, vomiting, yellowish_skin
+hepatitis A, joint_pain, yellowish_skin
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B, fatigue, lethargy
+Hepatitis B,itching, lethargy
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, yellowish_skin, nausea
+Hepatitis C, fatigue, nausea
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, vomiting, fatigue
+Hepatitis D, joint_pain, fatigue
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, vomiting, fatigue
+Hepatitis E, joint_pain, fatigue
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, yellowish_skin, abdominal_pain
+Alcoholic hepatitis, vomiting, abdominal_pain
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, vomiting, fatigue
+Tuberculosis, chills, fatigue
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, chills, fatigue
+Common Cold, continuous_sneezing, fatigue
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, fatigue, cough
+Pneumonia, chills, cough
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, cramps, bruising
+Varicose veins, fatigue, bruising
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, fatigue, cold_hands_and_feets
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, mood_swings, weight_loss
+Hyperthyroidism, fatigue, weight_loss
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, fatigue, anxiety
+Hypoglycemia, vomiting, anxiety
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, neck_pain, knee_pain
+Osteoarthristis, joint_pain, knee_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, stiff_neck, swelling_joints
+Arthritis, muscle_weakness, swelling_joints
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, headache, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, pus_filled_pimples, blackheads
+Acne, skin_rash, blackheads
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, blackheads
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, joint_pain, skin_peeling
+Psoriasis, skin_rash, skin_peeling
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, high_fever, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, blister
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, acidity, ulcers_on_tongue
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis, vomiting, yellowish_skin
+Chronic cholestasis,itching, yellowish_skin
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction, skin_rash, stomach_pain
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, indigestion, loss_of_appetite
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , weight_loss, restlessness
+Diabetes , fatigue, restlessness
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Migraine, indigestion, headache
+Migraine, acidity, headache
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice, vomiting, fatigue
+Jaundice,itching, fatigue
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, vomiting, high_fever
+Malaria, chills, high_fever
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Chicken pox, skin_rash, fatigue
+Chicken pox,itching, fatigue
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, chills, joint_pain
+Dengue, skin_rash, joint_pain
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, fatigue
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, vomiting, yellowish_skin
+hepatitis A, joint_pain, yellowish_skin
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B, fatigue, lethargy
+Hepatitis B,itching, lethargy
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, yellowish_skin, nausea
+Hepatitis C, fatigue, nausea
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, vomiting, fatigue
+Hepatitis D, joint_pain, fatigue
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, vomiting, fatigue
+Hepatitis E, joint_pain, fatigue
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, yellowish_skin, abdominal_pain
+Alcoholic hepatitis, vomiting, abdominal_pain
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, vomiting, fatigue
+Tuberculosis, chills, fatigue
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, chills, fatigue
+Common Cold, continuous_sneezing, fatigue
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, fatigue, cough
+Pneumonia, chills, cough
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, cramps, bruising
+Varicose veins, fatigue, bruising
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, fatigue, cold_hands_and_feets
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, mood_swings, weight_loss
+Hyperthyroidism, fatigue, weight_loss
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, fatigue, anxiety
+Hypoglycemia, vomiting, anxiety
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, neck_pain, knee_pain
+Osteoarthristis, joint_pain, knee_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, stiff_neck, swelling_joints
+Arthritis, muscle_weakness, swelling_joints
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, headache, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, pus_filled_pimples, blackheads
+Acne, skin_rash, blackheads
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, blackheads
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, joint_pain, skin_peeling
+Psoriasis, skin_rash, skin_peeling
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, high_fever, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, blister
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection, skin_rash, nodal_skin_eruptions
+Fungal infection,itching, nodal_skin_eruptions
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, shivering, chills
+Allergy, continuous_sneezing, chills
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+GERD, acidity, ulcers_on_tongue
+GERD, stomach_pain, ulcers_on_tongue
+GERD, stomach_pain, acidity
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis, vomiting, yellowish_skin
+Chronic cholestasis,itching, yellowish_skin
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction, skin_rash, stomach_pain
+Drug Reaction,itching, stomach_pain
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, indigestion, loss_of_appetite
+Peptic ulcer diseae, vomiting, loss_of_appetite
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, muscle_wasting, patches_in_throat
+AIDS, patches_in_throat, high_fever
+AIDS, muscle_wasting, high_fever
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , weight_loss, restlessness
+Diabetes , fatigue, restlessness
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, vomiting, sunken_eyes
+Gastroenteritis, sunken_eyes, dehydration
+Gastroenteritis, vomiting, dehydration
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, fatigue, cough
+Bronchial Asthma, cough, high_fever
+Bronchial Asthma, fatigue, high_fever
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , headache, chest_pain
+Hypertension , chest_pain, dizziness
+Hypertension , headache, dizziness
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Migraine, indigestion, headache
+Migraine, acidity, headache
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, back_pain, weakness_in_limbs
+Cervical spondylosis, weakness_in_limbs, neck_pain
+Cervical spondylosis, back_pain, neck_pain
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), vomiting, headache
+Paralysis (brain hemorrhage), headache, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice, vomiting, fatigue
+Jaundice,itching, fatigue
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, vomiting, high_fever
+Malaria, chills, high_fever
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Chicken pox, skin_rash, fatigue
+Chicken pox,itching, fatigue
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, chills, joint_pain
+Dengue, skin_rash, joint_pain
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, vomiting
+Typhoid, chills, fatigue
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, vomiting, yellowish_skin
+hepatitis A, joint_pain, yellowish_skin
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B, fatigue, lethargy
+Hepatitis B,itching, lethargy
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, yellowish_skin, nausea
+Hepatitis C, fatigue, nausea
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, vomiting, fatigue
+Hepatitis D, joint_pain, fatigue
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, vomiting, fatigue
+Hepatitis E, joint_pain, fatigue
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, yellowish_skin, abdominal_pain
+Alcoholic hepatitis, vomiting, abdominal_pain
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, vomiting, fatigue
+Tuberculosis, chills, fatigue
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, chills, fatigue
+Common Cold, continuous_sneezing, fatigue
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, fatigue, cough
+Pneumonia, chills, cough
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_in_anal_region
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, vomiting, breathlessness
+Heart attack, breathlessness, sweating
+Heart attack, vomiting, sweating
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, cramps, bruising
+Varicose veins, fatigue, bruising
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, weight_gain, cold_hands_and_feets
+Hypothyroidism, fatigue, cold_hands_and_feets
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, mood_swings, weight_loss
+Hyperthyroidism, fatigue, weight_loss
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, fatigue, anxiety
+Hypoglycemia, vomiting, anxiety
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, neck_pain, knee_pain
+Osteoarthristis, joint_pain, knee_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, stiff_neck, swelling_joints
+Arthritis, muscle_weakness, swelling_joints
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, headache, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, pus_filled_pimples, blackheads
+Acne, skin_rash, blackheads
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, pus_filled_pimples
+Acne, skin_rash, blackheads
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, burning_micturition, bladder_discomfort
+Urinary tract infection, bladder_discomfort, foul_smell_of urine
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, joint_pain, skin_peeling
+Psoriasis, skin_rash, skin_peeling
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, high_fever, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, blister
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, high_fever
+Impetigo, skin_rash, blister
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
+Fungal infection,itching, skin_rash
+Allergy, continuous_sneezing, shivering
+GERD, stomach_pain, acidity
+Chronic cholestasis,itching, vomiting
+Drug Reaction,itching, skin_rash
+Peptic ulcer diseae, vomiting, indigestion
+AIDS, muscle_wasting, patches_in_throat
+Diabetes , fatigue, weight_loss
+Gastroenteritis, vomiting, sunken_eyes
+Bronchial Asthma, fatigue, cough
+Hypertension , headache, chest_pain
+Migraine, acidity, indigestion
+Cervical spondylosis, back_pain, weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting, headache
+Jaundice,itching, vomiting
+Malaria, chills, vomiting
+Chicken pox,itching, skin_rash
+Dengue, skin_rash, chills
+Typhoid, chills, vomiting
+hepatitis A, joint_pain, vomiting
+Hepatitis B,itching, fatigue
+Hepatitis C, fatigue, yellowish_skin
+Hepatitis D, joint_pain, vomiting
+Hepatitis E, joint_pain, vomiting
+Alcoholic hepatitis, vomiting, yellowish_skin
+Tuberculosis, chills, vomiting
+Common Cold, continuous_sneezing, chills
+Pneumonia, chills, fatigue
+Dimorphic hemmorhoids(piles), constipation, pain_during_bowel_movements
+Heart attack, vomiting, breathlessness
+Varicose veins, fatigue, cramps
+Hypothyroidism, fatigue, weight_gain
+Hyperthyroidism, fatigue, mood_swings
+Hypoglycemia, vomiting, fatigue
+Osteoarthristis, joint_pain, neck_pain
+Arthritis, muscle_weakness, stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, vomiting, headache
+Acne, skin_rash, pus_filled_pimples
+Urinary tract infection, burning_micturition, bladder_discomfort
+Psoriasis, skin_rash, joint_pain
+Impetigo, skin_rash, high_fever
